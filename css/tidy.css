@@ -4,7 +4,7 @@
 
 * 
 {
-	font-family:RobotoDraft,sans-serif;
+	font-family:RobotoDraft,Calibiri;
 	-webkit-transition:all .3s ease;
 	-moz-transition:all .3s ease;
 	-o-transition:all .3s ease;
@@ -68,11 +68,11 @@ a:active
 .content-card	
 {
 	width: 60%; 
-	background-color: #fff; 
+	background-color: #00ffff; 
 	margin: auto; 
 	margin-top: 15%; 
 	position: relative; 
-	padding: 50px;
+	padding: 35px;
     border-top-left-radius: 2px;
     border-top-right-radius: 2px;
     border-bottom-right-radius: 2px;
@@ -96,7 +96,7 @@ a:active
 	
 .works-subcard
 {
-	background-color: #fff;
+	background-color: #00ffff;
 	box-shadow: rgba(0, 0, 0, 0.0980392) 0px 2px 4px, rgba(0, 0, 0, 0.0980392) 0px 0px 3px;
    	border-top-left-radius: 2px;
    	border-top-right-radius: 2px;
@@ -116,7 +116,7 @@ a:active
 .content-works
 {
 	width: 60%; 
-	background-color: transparent; 
+	background-color: lightblue; 
 	margin: auto;
 	overflow: auto;
 	position: relative;
@@ -156,7 +156,7 @@ a:active
 {
 	background-image:url(../img/appsite_hero.png);
 	background-size:cover;
-	background-position:center;
+	background-position:left;
 	height:100%;
 	width:100%;
 	top:0;
